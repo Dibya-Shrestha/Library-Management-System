@@ -5,3 +5,10 @@ This project is comprehensive Library Management System designed by using SQL Ma
 
 # Data Sources
 - [Download SQL file here](https://github.com/Dibya-Shrestha/Library-Management-System/blob/main/Library%20Management%20System.sql)
+
+# Exploratory Data Analysis
+- List of accounts whose account have been terminated
+- How many readers have premium account type
+- Showing accont details of all readers
+- How many books have been sold
+- How many times have the Heaven Official Blessing Book been sold
